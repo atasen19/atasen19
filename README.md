@@ -1,7 +1,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=atasen19&show_icons=true&theme=dark" width="400">
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atasen19)](https://github.com/atasen19/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=atasen19&repo=github-readme-stats)](https://github.com/atasen19/github-readme-stats)
+
 <!--
 **atasen19/atasen19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
