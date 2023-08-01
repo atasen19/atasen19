@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kerem Ataşen</h1>
-<h3 align="center">A passionate researcher and software developer from Turkey.</h3>
+<h3 align="center">A DevOps Engineer, passionate researcher and software developer from Turkey. I am currently working at Vodafone Turkiye</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atasen19&label=Profile%20views&color=0e75b6&style=flat" alt="atasen19" /> </p>
 
